@@ -20,3 +20,5 @@ https://gist.github.com/tgmarinho/6cf35ac45644a0b68a45069d23c2e4b6
 https://www.emojicopy.com/
 
 https://www.notion.so/GitHub-LinkedIn-9a057f4f92ab4392903ff3a588acb2ab
+
+https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
