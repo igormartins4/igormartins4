@@ -1,24 +1,16 @@
-### Hi there 👋
+## Olá!
+Me chamo Igor Martins e atualmente sou programador Frontend e Designer Gráfico. 
 
-<!--
-**igormartins4/igormartins4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Stats
+<div>
+  <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=igormartins4&theme=vision-friendly-dark&show_icons=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormartins4&layout=compact&theme=vision-friendly-dark"/>
+</div>
 
-Here are some ideas to get you started:
+<h3 align="center">Bora fazer aquele networking maroto?</h3>
+<p align="center">
+    <a href="https://www.linkedin.com/in/igormartins44/">LinkedIn</a> |
+    <a href="https://www.instagram.com/titan.css">Instagram</a> |
+    <a href="https://www.behance.net/titanstudio44">Behance</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-Emojis:
-https://gist.github.com/tgmarinho/6cf35ac45644a0b68a45069d23c2e4b6
-https://www.emojicopy.com/
-
-https://www.notion.so/GitHub-LinkedIn-9a057f4f92ab4392903ff3a588acb2ab
-
-https://blog.rocketseat.com.br/como-fazer-um-bom-readme/
