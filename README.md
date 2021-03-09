@@ -1,8 +1,7 @@
 ## Olá!
 Me chamo Igor Martins e atualmente sou programador Frontend e Designer Gráfico. 
 
-## Stats
-<div>
+<div align="center">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=igormartins4&theme=vision-friendly-dark&show_icons=true" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormartins4&layout=compact&theme=vision-friendly-dark"/>
 </div>
