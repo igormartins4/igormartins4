@@ -11,7 +11,9 @@ Atualmente atuo como Desenvolvedor Front-end Júnior, trabalhando em projetos pe
 
 <h3 align="center">Contato</h3>
 <p align="center">
-    <a href="https://www.linkedin.com/in/igormartins44/">LinkedIn</a> |
+  <a href="https://www.linkedin.com/in/igormartins44/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
     <a href="https://www.instagram.com/titan.css">Instagram</a> |
     <a href="https://www.behance.net/titanstudio44">Behance</a> |
     <a href="mailto:igormartins.igor4@gmail.com">igormartins.igor4@gmail.com</a>
