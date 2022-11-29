@@ -8,7 +8,7 @@ Atualmente atuo como Desenvolvedor Front-end Júnior, trabalhando em projetos pe
 
 <p align="center">
   <img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=igormartins4&theme=vision-friendly-dark&show_icons=true" />
-  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormartins4&layout=compact&theme=vision-friendly-dark"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igormartins4&layout=compact&langs_count=10&theme=vision-friendly-dark"/>
 </p>
 
 # Contato
