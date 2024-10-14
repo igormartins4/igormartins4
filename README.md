@@ -1,8 +1,10 @@
 # Olá, bem vindo
 
-Sou estudante de Sistemas de Informação na Universidade Federal de Minas Gerais - UFMG e trabalho como designer gráfico freelancer há três anos, atualmente estou indo para a área de programação. Ao longo desses anos, desenvolvi projetos de identidade visual e de criação de marcas, estudando noções básicas de UI/UX Design antes de decidir me dedicar exclusivamente à programação. 
+## PT-BR 🇧🇷
+Sou estudante de Sistemas de Informação na Universidade Federal de Minas Gerais (UFMG) e já trabalhei como designer gráfico freelancer por quatro anos. Ao longo desse tempo, desenvolvi projetos de identidade visual e estudei noções básicas de UI/UX antes de decidir me dedicar exclusivamente à programação. Tenho trabalhado como Desenvolvedor Frontend nos últimos três anos. Minha especialidade inclui React, React Native, JavaScript (ES6), Figma, UI\UX.
 
-Atualmente atuo como Desenvolvedor Front-end Júnior, trabalhando em projetos pessoais. Foco em usar tecnologias modernas e que estão em maior uso no mercado (como ReactJS, NextJS, React Native, entre outras), assim como metodologias (BEM, Conventional e Atomic Commits) para padronização de código.
+## EN-USA 🇺🇸
+I'm an Information Systems student at the Federal University of Minas Gerais (UFMG) and have worked as a freelance graphic designer for four years. During that time, I developed visual identity projects and studied basic UI/UX concepts before deciding to focus solely on programming. I have been working as a Frontend Developer for the past three years, specializing in React, React Native, JavaScript (ES6), Figma, and UI/UX.
 
 # Estatísticas
 
